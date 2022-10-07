@@ -3,7 +3,7 @@ function setup() {
   }
   
   function preload() {
-    img4 = loadImage("litwick.png");
+    img4 = loadImage("litwick.jpg");
   }
   /////////////////////////////////////////TILES////////////////////////////
   var Tile = function (config) {
